@@ -1,2 +1,0 @@
-# FilterTable
-Created with CodeSandbox
